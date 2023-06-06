@@ -1,0 +1,30 @@
+{
+  "name": "tourcasm",
+  "version": "1.0.0",
+  "description": "\u0016\b\u0016\u0016\u0016\u0016\b\b\b\b\b The single page is about tor\b\bri\b\b\btourism.",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevAbdulAlimRony/tourcasm-landing-page.git"
+  },
+  "keywords": [
+    "tourcasm",
+    "sass",
+    "scss",
+    "css",
+    "\b",
+    "landing_page"
+  ],
+  "author": "DebAbdulAlimRony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevAbdulAlimRony/tourcasm-landing-page/issues"
+  },
+  "homepage": "https://github.com/DevAbdulAlimRony/tourcasm-landing-page#readme",
+  "devDependencies": {
+    "sass": "^1.62.1"
+  }
+}
