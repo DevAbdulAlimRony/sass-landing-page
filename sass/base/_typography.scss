@@ -1,0 +1,29 @@
+body{
+    font-family: "lato", sans-serif;
+    color: $color-grey-dark;
+    font-weight: 400;
+    line-height: 1.7;
+}
+.main-headings{
+    color: #fff;
+    text-transform: uppercase;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+
+    &--primary{
+        display: block;
+        font-size: 6rem;
+        font-weight: 400;
+        letter-spacing: 2.5rem;
+        animation: moveToLeft 1s ease-in-out;
+        -webkit-animation: moveToLeft 1s ease-in-out;
+    }
+    &--sub{
+        display: block;
+        font-size: 2rem;
+        font-weight: 700;
+        letter-spacing: .9rem;
+        animation: moveToRight 1s ease-in-out;
+        -webkit-animation: moveToRight 1s ease-in-out;
+    }
+}

@@ -5,8 +5,7 @@
 I was really desperate to learn sass. On the other hand, using css advanced flexbox and grid layout is a plus point-
 
 - [Converting CSS into SASS]
-- [Using All CSS Flexbox Features]
-- [Using CSS Grid Features]
+- [SASS 7-1 Pattern/Architecture]
 - [Design Optimization and SEO].
 
 <table align="center">
