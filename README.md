@@ -5,6 +5,7 @@
 I was really desperate to learn sass. On the other hand, using css advanced flexbox and grid layout is a plus point-
 
 - [Converting CSS into SASS]
+- [Grid Layout using CSS Float and Clearfix]
 - [SASS 7-1 Pattern/Architecture]
 - [Design Optimization and SEO].
 
